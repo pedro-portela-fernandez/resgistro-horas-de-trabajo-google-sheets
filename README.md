@@ -37,7 +37,7 @@ La hoja tiene 3 funciones principales.
 Para probar la herramienta con total funcionalidad en tu propio Google Drive:
 
 1. Haz clic en el siguiente enlace de copia directa:  
-   👉 **[🔗 Abrir Plantilla en Google Sheets](https://docs.google.com/spreadsheets/d/1bl8XL_i6fNlVJf_YfsRXabvgmlrYfvfDsM_j89-atd4/edit?gid=0#gid=0/copy)**
+   👉 **[🔗 Abrir Plantilla en Google Sheets](https://docs.google.com/spreadsheets/d/1bl8XL_i6fNlVJf_YfsRXabvgmlrYfvfDsM_j89-atd4/copy)**
 2. Presiona el botón azul **"Hacer una copia"**.
 3. La hoja se guardará automáticamente en tu Google Drive con permisos totales de edición.
 
